@@ -1273,12 +1273,6 @@ https://insighttv-stirr.amagi.tv/playlist.m3u8
 http://148.69.92.171:4022/udp/239.100.26.10:1234
 #EXTINF:-1,IN: DISCOVERY KIDS
 https://streamitv.multitvsolution.in/idvo/discoverykidshindi.m3u8?checkedby:rockettvapk.blogspot.com
-#EXTINF:-1,IN: COLORS HD
-http://tamilgo.com/api/auth/jio/jiostream.m3u8?c=Colors_HD
-#EXTINF:-1,IN: SONY HD
-http://tamilgo.com/api/auth/jio/jiostream.m3u8?c=Sony_HD
-#EXTINF:-1,IN: ZEE TV HD
-http://tamilgo.com/api/auth/jio/jiostream.m3u8?c=Zee_Tv_HD
 #EXTINF:-1,IN: GEMINI MOVIES HD
 http://indtv.online/sunnxt/sunnxt/GeminiMoviesHD.m3u8
 #EXTINF:-1,IN: SUN TV HD
@@ -1331,4 +1325,6 @@ http://ccn.anytv.live:8080/starjalsha/track-v1a1/mono.m3u8
 http://ccn.anytv.live:8080/zeebangla/track-v1a1/mono.m3u8
 #EXTINF:-1,IN: SONY AATH
 http://ccn.anytv.live:8080/sonyaath/track-v1a1/mono.m3u8
+#EXTINF:-1,IN: STAR PLUS HD
+https://m3u8-server2.wserials.com/445/5f0df7552c16c/5f0df7552c16c.m3u8
 
